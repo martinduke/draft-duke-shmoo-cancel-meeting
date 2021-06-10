@@ -101,7 +101,7 @@ Table of Contents
       unable to meet IETF meeting requirements due to a health issue,
       legal violation, or other localized problem.
 
-   *  A natural disaster could degrade the travel and event
+   *  A natural disaster could degrade the travel and meeting
       infrastructure in a planned location and make it unethical to
       further burden that infrastructure with a meeting.
 
