@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2021-06-06T00:49:25.534907+00:00",
+  "timestamp": "2021-06-10T00:30:41.350123+00:00",
   "repo": "martinduke/draft-ietf-shmoo-cancel-meeting",
   "labels": [
     {
@@ -55,15 +55,15 @@
       "id": "MDU6SXNzdWU2ODI5NTEyODA=",
       "title": "Converge with 109 Criteria",
       "url": "https://github.com/martinduke/draft-ietf-shmoo-cancel-meeting/issues/1",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "martinduke",
       "authorAssociation": "OWNER",
       "assignees": [],
       "labels": [],
       "body": "Mirja points out that the 109 criteria (https://www.ietf.org/how/meetings/109/assessment-framework-person-vs-online-ietf-109-meeting) has diverged a bit from the draft, which is based on 108. Some concrete examples:\r\n\r\n- Quarantine requirements are not listed anywhere\r\n- \"inherently discriminatory\" travel restrictions. (On this one, I'm not sure how to build a general priniciple out of this -- many countries have discriminatory entry policies if you look hard enough).\r\n- if national bans or extraordinary airfare increases exclude over 20% of expected attendees (based on historical data for events in that region)\r\n- mass gatherings of less than 500 people are allowed.\r\n\r\n",
       "createdAt": "2020-08-20T17:36:22Z",
-      "updatedAt": "2020-08-20T17:36:22Z",
-      "closedAt": null,
+      "updatedAt": "2021-06-09T18:23:02Z",
+      "closedAt": "2021-06-09T18:23:02Z",
       "comments": []
     },
     {
@@ -71,15 +71,15 @@
       "id": "MDU6SXNzdWU2ODI5NTE5Nzg=",
       "title": "Add local authorities",
       "url": "https://github.com/martinduke/draft-ietf-shmoo-cancel-meeting/issues/2",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "martinduke",
       "authorAssociation": "OWNER",
       "assignees": [],
       "labels": [],
       "body": "Add the local authorities, not just US and UK travel advisories.",
       "createdAt": "2020-08-20T17:37:04Z",
-      "updatedAt": "2020-08-20T17:37:04Z",
-      "closedAt": null,
+      "updatedAt": "2021-06-09T18:22:54Z",
+      "closedAt": "2021-06-09T18:22:54Z",
       "comments": []
     },
     {
@@ -133,6 +133,32 @@
       "mergeCommit": {
         "oid": "d5f8bab07708cc14c04673d8e546cd1e4583b62a"
       },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 5,
+      "id": "MDExOlB1bGxSZXF1ZXN0NjY2MTY4MDYy",
+      "title": "Lars review",
+      "url": "https://github.com/martinduke/draft-ietf-shmoo-cancel-meeting/pull/5",
+      "state": "OPEN",
+      "author": "martinduke",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2021-06-09T18:18:27Z",
+      "updatedAt": "2021-06-09T18:18:27Z",
+      "baseRepository": "martinduke/draft-ietf-shmoo-cancel-meeting",
+      "baseRefName": "main",
+      "baseRefOid": "700cf74537d56099e747247947d7b0e25e07be5a",
+      "headRepository": "martinduke/draft-ietf-shmoo-cancel-meeting",
+      "headRefName": "ad-comments",
+      "headRefOid": "5c968c83fb6d20d77c09f8e5c2865ce325ff6e9f",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
       "comments": [],
       "reviews": []
     }
