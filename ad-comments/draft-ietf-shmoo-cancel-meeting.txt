@@ -223,7 +223,7 @@ Table of Contents
 
    If the LLC assesses there are no fundamental logistical or financial
    obstacles to holding a meeting in an emergency situation, the IESG
-   and IRTF chair assess if projected attendance is high enough to
+   and IRTF Chair assess if projected attendance is high enough to
    achieve the benefit of an in-person meeting.
 
    The IESG is discouraged from relying on a simple head count of
