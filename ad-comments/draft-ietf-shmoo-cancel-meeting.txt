@@ -4,8 +4,8 @@
 
 shmoo                                                            M. Duke
 Internet-Draft                                         F5 Networks, Inc.
-Intended status: Best Current Practice                       9 June 2021
-Expires: 11 December 2021
+Intended status: Best Current Practice                      10 June 2021
+Expires: 12 December 2021
 
 
             Considerations for Cancellation of IETF Meetings
@@ -44,7 +44,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 11 December 2021.
+   This Internet-Draft will expire on 12 December 2021.
 
 Copyright Notice
 
@@ -89,7 +89,7 @@ Table of Contents
 
 1.  Introduction
 
-   Among the highlights of the IETF calendar is in-person general
+   Among the highlights of the IETF calendar are in-person general
    meetings, which happen three times a year at various locations around
    the world.
 
