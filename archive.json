@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2021-06-10T00:30:41.350123+00:00",
+  "timestamp": "2021-06-13T00:30:06.167716+00:00",
   "repo": "martinduke/draft-ietf-shmoo-cancel-meeting",
   "labels": [
     {
@@ -141,26 +141,112 @@
       "id": "MDExOlB1bGxSZXF1ZXN0NjY2MTY4MDYy",
       "title": "Lars review",
       "url": "https://github.com/martinduke/draft-ietf-shmoo-cancel-meeting/pull/5",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "martinduke",
       "authorAssociation": "OWNER",
       "assignees": [],
       "labels": [],
       "body": "",
       "createdAt": "2021-06-09T18:18:27Z",
-      "updatedAt": "2021-06-09T18:18:27Z",
+      "updatedAt": "2021-06-10T16:00:20Z",
       "baseRepository": "martinduke/draft-ietf-shmoo-cancel-meeting",
       "baseRefName": "main",
       "baseRefOid": "700cf74537d56099e747247947d7b0e25e07be5a",
       "headRepository": "martinduke/draft-ietf-shmoo-cancel-meeting",
       "headRefName": "ad-comments",
-      "headRefOid": "5c968c83fb6d20d77c09f8e5c2865ce325ff6e9f",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "headRefOid": "4b97c592d1b2d44ffc6fd7c6bb5c2c5de723e9dd",
+      "closedAt": "2021-06-10T15:53:06Z",
+      "mergedAt": "2021-06-10T15:53:06Z",
+      "mergedBy": "martinduke",
+      "mergeCommit": {
+        "oid": "d0096f030628038930d0659f14e770a0616363f0"
+      },
       "comments": [],
-      "reviews": []
+      "reviews": [
+        {
+          "id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjgwNDAwOTM1",
+          "commit": {
+            "abbreviatedOid": "5c968c8"
+          },
+          "author": "larseggert",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "CHANGES_REQUESTED",
+          "body": "",
+          "createdAt": "2021-06-10T06:48:07Z",
+          "updatedAt": "2021-06-10T06:54:49Z",
+          "comments": [
+            {
+              "originalPosition": 6,
+              "body": "```suggestion\r\nAmong the highlights of the IETF calendar are in-person general meetings, which\r\n```",
+              "createdAt": "2021-06-10T06:48:07Z",
+              "updatedAt": "2021-06-10T06:54:49Z"
+            },
+            {
+              "originalPosition": 104,
+              "body": "```suggestion\r\nto holding a meeting in an emergency situation, the IESG and IRTF Chair assess\r\n```",
+              "createdAt": "2021-06-10T06:49:33Z",
+              "updatedAt": "2021-06-10T06:54:49Z"
+            },
+            {
+              "originalPosition": 117,
+              "body": "```suggestion\r\nIf a meeting cannot be held at the scheduled time and place, the LLC and IESG\r\n```",
+              "createdAt": "2021-06-10T06:49:54Z",
+              "updatedAt": "2021-06-10T06:54:49Z"
+            },
+            {
+              "originalPosition": 117,
+              "body": "Could you also check other uses of \"event\" vs. \"meeting\" throughout the document? A \"meeting\" is what we hold, an \"event\" is the thing that might cause us to cancel a meeting (at least I think that is how most of the text is written.)",
+              "createdAt": "2021-06-10T06:52:51Z",
+              "updatedAt": "2021-06-10T06:54:49Z"
+            },
+            {
+              "originalPosition": 108,
+              "body": "```suggestion\r\nThe IESG is discouraged from relying on a simple head count of expected meeting\r\n```",
+              "createdAt": "2021-06-10T06:54:14Z",
+              "updatedAt": "2021-06-10T06:54:49Z"
+            },
+            {
+              "originalPosition": 109,
+              "body": "```suggestion\r\nattendance. Even dramatically smaller meetings with large remote participation may\r\n```",
+              "createdAt": "2021-06-10T06:54:37Z",
+              "updatedAt": "2021-06-10T06:54:49Z"
+            }
+          ]
+        },
+        {
+          "id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjgwODY1MDcw",
+          "commit": {
+            "abbreviatedOid": "4b97c59"
+          },
+          "author": "martinduke",
+          "authorAssociation": "OWNER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2021-06-10T14:32:43Z",
+          "updatedAt": "2021-06-10T14:32:44Z",
+          "comments": [
+            {
+              "originalPosition": 117,
+              "body": "OK, it's done. If you're now happy with it, I'll merge this and publish a new version.",
+              "createdAt": "2021-06-10T14:32:43Z",
+              "updatedAt": "2021-06-10T14:32:44Z"
+            }
+          ]
+        },
+        {
+          "id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjgwOTQ5MDQz",
+          "commit": {
+            "abbreviatedOid": "4b97c59"
+          },
+          "author": "larseggert",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2021-06-10T15:40:23Z",
+          "updatedAt": "2021-06-10T15:40:23Z",
+          "comments": []
+        }
+      ]
     }
   ]
 }
