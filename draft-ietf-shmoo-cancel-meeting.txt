@@ -4,8 +4,8 @@
 
 shmoo                                                            M. Duke
 Internet-Draft                                         F5 Networks, Inc.
-Intended status: Best Current Practice                      10 June 2021
-Expires: 12 December 2021
+Intended status: Best Current Practice                      22 June 2021
+Expires: 24 December 2021
 
 
             Considerations for Cancellation of IETF Meetings
@@ -44,7 +44,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 12 December 2021.
+   This Internet-Draft will expire on 24 December 2021.
 
 Copyright Notice
 
@@ -316,7 +316,7 @@ Table of Contents
 
    *  Upon postponement, the LLC SHOULD offer refunds to registered
       attendees who claim they cannot attend at the newly scheduled
-      time.
+      time.  Attendees can opt out of receiving a refund.
 
    *  When a meeting becomes remote, the LLC SHOULD attempt to recover
       whatever venue-related payments, past or future, it can and rebate
