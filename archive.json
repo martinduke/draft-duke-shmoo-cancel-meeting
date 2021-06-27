@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2021-06-24T00:21:32.161057+00:00",
+  "timestamp": "2021-06-27T00:31:04.795640+00:00",
   "repo": "martinduke/draft-ietf-shmoo-cancel-meeting",
   "labels": [
     {
@@ -253,24 +253,26 @@
       "id": "MDExOlB1bGxSZXF1ZXN0Njc1Nzg1MzU0",
       "title": "Jay Daley Review",
       "url": "https://github.com/martinduke/draft-ietf-shmoo-cancel-meeting/pull/6",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "martinduke",
       "authorAssociation": "OWNER",
       "assignees": [],
       "labels": [],
       "body": "",
       "createdAt": "2021-06-22T21:55:04Z",
-      "updatedAt": "2021-06-22T21:55:05Z",
+      "updatedAt": "2021-06-24T17:15:02Z",
       "baseRepository": "martinduke/draft-ietf-shmoo-cancel-meeting",
       "baseRefName": "main",
       "baseRefOid": "94e73e7b3d742e4dcdfd2974d2df08b0cb59900c",
       "headRepository": "martinduke/draft-ietf-shmoo-cancel-meeting",
       "headRefName": "jay-daley",
       "headRefOid": "b156292228d01570c390a1bdcf1b3e1005c41a79",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "closedAt": "2021-06-24T17:15:02Z",
+      "mergedAt": "2021-06-24T17:15:01Z",
+      "mergedBy": "martinduke",
+      "mergeCommit": {
+        "oid": "618c9afa4a229290fa4f0baff0b2071885ba7856"
+      },
       "comments": [],
       "reviews": []
     }
