@@ -4,8 +4,8 @@
 
 shmoo                                                            M. Duke
 Internet-Draft                                         F5 Networks, Inc.
-Intended status: Best Current Practice                      24 June 2021
-Expires: 26 December 2021
+Intended status: Best Current Practice                       8 July 2021
+Expires: 9 January 2022
 
 
             Considerations for Cancellation of IETF Meetings
@@ -16,7 +16,7 @@ Abstract
    The IETF holds three in-person meetings per year to discuss and
    understand issues.  However, various emergencies can make a planned
    in-person meeting infeasible.  This document provides criteria for
-   making this judgment.
+   assessing meeting feasibility.
 
 Discussion Venues
 
@@ -44,7 +44,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 26 December 2021.
+   This Internet-Draft will expire on 9 January 2022.
 
 Copyright Notice
 
@@ -156,7 +156,8 @@ Table of Contents
    its proposed remedy.  In less clear cases, the LLC SHOULD conduct a
    formal reassessment process that includes:
 
-   *  Consulting with the community on the process timetable.
+   *  Consulting with the community on the timetable of the decision
+      process.
 
    *  Consulting with the community on criteria to assess the impact of
       new developments.
@@ -295,7 +296,8 @@ Table of Contents
    The LLC and IESG may cancel a meeting entirely in the event that
    worldwide conditions make it difficult for attendees to even attend
    remotely.  Not holding a meeting at all can have wide implications,
-   such as the nomination process and seating of new officers.
+   such as effects on the nomination process and seating of new
+   officers.
 
    Cancellation is likely the only practical alternative when
    emergencies occur immediately before or during a meeting, so that
